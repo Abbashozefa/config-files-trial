@@ -1,6 +1,6 @@
 {
     "repository": "dsanokia",
-    "url": "registry-1.docker.io/dsanokia",
+    "url": "registry-1.docker.io/nokiadsa",
     "images": {
       "Ausf_ueAuth": {
         "name": "ausfueauth",
