@@ -30,9 +30,7 @@
         "name": "eirdevicecheck",
         "tag": "latest"
       },
-      "Hss_ims": {
-        "name": "hssims",
-        "tag": "latest"
+      
       },
       "Hss_lte": {
         "name": "hsslte",
